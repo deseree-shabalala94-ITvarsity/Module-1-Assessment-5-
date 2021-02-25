@@ -1,28 +1,12 @@
-.gsllery img{
-    width: 100%;
-}
-
-#menu{
-    width: 100%;
-    height: 40px;
-    background-color: cornflowerblue
-    
-        
-
-}
-
-#menu a{
-  color: #ffffff;
-    font-family: Helvetica, sans-serif;
-    font-size: 18px;
-    text-decoration:none;
+th{
     font-weight:800;
-    
-    padding-left: 20px;
-    padding-right: 20px;
-    
+    background-color:#54BA0F;
+    color:#ffffff
 }
 
-#menu a:hover{
-    color: #5077bd;
-}
+    table{
+    font-family: Helvertica,sans-serif;
+    border-collapse: collapse;
+    border-width:1px;
+    border-style:solid;
+    border-color:#54BA0F;
